@@ -1,5 +1,3 @@
 # OSSPrac
-# KilsupLee Test 23/07/30 08:48
-# KilsupLee 85275
-
+# KilsupLee Test 23/07/30 00:05
 OSS Practice Exercise
