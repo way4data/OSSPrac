@@ -1,8 +1,7 @@
-version: '4'
+# docker-compose.yml 
 
-services:
-  app:
-    build: .
-    image: kilsuplee/flask:4.0
-    ports:
-      - "5000:5000"
+version: "2.0" # docker compose 파일의 버전
+
+services: # 아래는 서비스 정의
+  python-app: # services명
+    build: . # Dockerfile의 경로
