@@ -1,0 +1,8 @@
+# docker-compose.yml 
+
+version : "3.0" # docker compose 파일의 버전
+
+services : # 아래는 서비스 정의
+  python-app : # services명
+    image : kilsuplee/hw6 
+    build : . # Dockerfile의 경로

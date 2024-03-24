@@ -1,0 +1,7 @@
+1) script파일 수정 후 yml 파일도 수정
+2) jenkins 실행
+3) branch 변경
+4) docker 설치
+5) docker-compose 설치
+$ sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+$ sudo chmod +x /usr/local/bin/docker-compose

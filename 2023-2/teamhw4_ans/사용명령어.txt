@@ -1,0 +1,5 @@
+# 이미지 빌드
+$ docker build -t hw4 .
+
+# 이미지 실행
+$ docker run -d --name hw4_c -p 80:80 hw4
