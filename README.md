@@ -1,3 +1,6 @@
 # OSSPrac
-## Written By Kilsup Lee
-### Date : 2024. 9. 24.
+
+## Written By GDHong 2020123456
+
+### Date : 2024. 9. 25
+
